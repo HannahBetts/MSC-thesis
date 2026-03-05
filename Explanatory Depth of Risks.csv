@@ -1,0 +1,504 @@
+﻿Article,Risk Domain,Subdomain,Risk depth,Comment on depth of risk
+2024-05-05 - RNZ - Microsoft bans US police using,0,0,Informatory,"Doesn't actually mention risk or safety concerns, but the emphasis on bansof technology use does heavily imply there is a risk involved. "
+2024-05-07 - RNZ - The New Yorker Kyle Chayka on,6,6.1,Elucidating,"""Kyle Chayka ... blamed algorithms that direct our attention to what works best for digital platforms."" is the definition here. The rest of it doesn't quite explain how this supports AI companies to gain or maintain power. "
+2024-05-07 - RNZ - The New Yorker Kyle Chayka on,5,5.2,Quasi-scientific,Really challenging - is this a explanatory content? Seems to have a lot of explanation but doesn't explicitly explain loss of agency anywhere. I think it has enough explanation across the article that one can understand the loss of agency.
+2024-05-07 - RNZ - The New Yorker Kyle Chayka on,8,8.4,Informatory,
+2024-05-08 - NZH - Kiwis driving start-up gets $1,7,7,Informatory,
+2024-05-09 - BOP - AI adopters forecast to pull a,3,3.1,Informatory,Doesn't actually state that AI does this. The article then moves on
+2024-05-09 - BOP - AI adopters forecast to pull a,4,4.3,Informatory,
+2024-05-09 - BOP - AI adopters forecast to pull a,7,7.1,Informatory,
+2024-05-09 - BOP - AI adopters forecast to pull a,6,6.2,Informatory,
+2024-05-10 - PRS - Student deep nudes circulating,4,4.3,Quasi-scientific,
+2024-05-10 - PRS - Student deep nudes circulating,1,1.2,Quasi-scientific,"Doesn't explain that AI can produce toxic content in relation to the data it was trained on, so doesn't build an understanding of how AI generates toxic content other than ""a tool exists that can do this."""
+2024-05-10 - RDP - Apple crushed by negative feed,6,6.3,Quasi-scientific,"Graves' quote is a strong explanation of the concerns about creativity, here. "
+2024-05-10 - RDP - Apple crushed by negative feed,6,6.2,Informatory,"References job loss, but doesn't describe it in much detail"
+2024-05-12 - RNZ - Police not looking to alter th,1,1,Informatory,"Reference to ""fairness"" seems relevant to this Domain."
+2024-05-12 - RNZ - Police not looking to alter th,2,2.2,Informatory,
+2024-05-12 - RNZ - Police not looking to alter th,6,6.5,Informatory,
+2024-05-12 - RNZ - Police not looking to alter th,7,7.3,Informatory,
+"2024-05-15 - RNZ - 5000 crimes at New World, Pak",7,7.3,Informatory,
+2024-05-15 - RNZ - Risk Maori and Pasifika will f,1,1,Elucidating,"States that AI can disriminate against people of colour when police use these tools, but doesn't explain how this occurs. Later in the article, it does give reference to false positives, but doesn't actually clearly assign this to the AI. In this case, it says that there's a risk non-Māori police officers could fail to identify Tā moko and Māori patterns, and then says ""I suspect we could see a number of false positives."" If this was clearly linked to AI in context, this would be an informatory reference to Risk 1.3. However, because it's not clear that they're referring to AI in context, I'm marking this as informatory reference to Risk 1 with no subdomain. "
+2024-05-15 - RNZ - Risk Maori and Pasifika will f,8,8.3,Quasi-scientific,Explains how additional use of biometric identification systems could lead to increased data collection
+2024-05-15 - RNZ - Risk Maori and Pasifika will f,2,2,Informatory,
+2024-05-15 - RNZ - Risk Maori and Pasifika will f,5,5.1,Informatory,"Describes an instance of automation bias, but doesn't actually refer to it as such, and doesn't define or explain the way that staff members could rely on AI without applying their own critical thinking, "
+2024-05-15 - RNZ - Risk Maori and Pasifika will f,8,8.1,Informatory,
+2024-05-15 - RNZ - Risk Maori and Pasifika will f,6,6.5,Informatory,
+2024-05-16 - PRS - Hunt for deep nude distributor,4,4.3,Quasi-scientific,Explains that someone has used AI to create images that are harmful. 
+2024-05-16 - PRS - Hunt for deep nude distributor,4,4,Informatory,"References the wider problem of misuse, in a way that's clearly relevant beyond the present context of deepfakes. "
+2024-05-16 - STF - Tova podcast- I would never gi,4,4.1,Quasi-scientific,"Explains the risk of Chinese person who has spoken out against China being surveilled on the platform, and also explains how peple may use apps to collect information, including examples of what info might be collected. "
+2024-05-16 - STF - Tova podcast- I would never gi,1,1.2,Quasi-scientific,"Gives examples of toxic content (eating disorders and mental health), and explains that the recommender system shares these with young people because it's adjusting based on what young people have spent time viewing, re-watching and what they have stopped watching. Taken together, this article has enough information for a reader to build an understanding of how AI recommender algorithms learn to serve up toxic content to users. "
+2024-05-16 - STF - Tova podcast- I would never gi,3,3.2,Quasi-scientific,"Explains the hyper-personalised filters. Doesn't explain a distorted reality, but implies it through the following sentences, so I'll count it as an explanation. ""They were being shown this content every 39 seconds. ""So very quickly, it sends kids to these videos that romanticise and encourage self-harm and depressive thinking, and there's also just some really depraved content on there,"" says Marsh."""
+2024-05-16 - STF - Tova podcast- I would never gi,5,5.2,Quasi-scientific,
+2024-05-16 - STF - Tova podcast- I would never gi,6,6.1,Quasi-scientific,"Clear explanation across the two quotes: Some platforms may exclude some people., resulting in some people being unable to engage in democratic participation in NZ society, and here's an example of what that could look like for TikTok/Chinese dissidents. "
+2024-05-16 - STF - Tova podcast- I would never gi,8,8.3,Quasi-scientific,"Explains how the app queries user location, and consequences of this on user safety. "
+2024-05-17 - TMH - Sony Music warns AI firms over,6,6.3,Quasi-scientific,
+2024-05-17 - TMH - Sony Music warns AI firms over,6,6.5,Informatory,"Doesn't actually articulate any governance challenges, just references that it has been hard (and doesn't really explain why, other than ""trying to tread a line.""_"
+2024-05-19 - RNZ - Police use images from number,4,4.1,Informatory,"Says it was misuse, but doesn't say how this kind of application or AI can be misused. "
+2024-05-22 - RNZ - AI expected to supercharge pro,4,4.2,Informatory,Doesn't explain how AI being the dominant form of intelligence on earth leads to cybersecurity risks. 
+2024-05-22 - RNZ - AI expected to supercharge pro,6,6.2,Informatory,
+2024-05-22 - RNZ - AI expected to supercharge pro,6,6.3,Informatory,
+2024-05-27 - RNZ - New Zealand continues to call,7,7.2,Quasi-scientific,
+2024-05-27 - RNZ - New Zealand continues to call,4,4.2,Informatory,"This article is approximately saying: AI brings benefits, but this must be balanced with human accountability - this is inferring that AI may make weapons more dangerous, but not actually saying how. "
+2024-05-27 - RNZ - New Zealand continues to call,6,6.5,Informatory,"Talks about what the oversight should contain, but doesn't actually explain why it's difficult to govern AI systems. "
+2024-05-27 - RNZ - New Zealand continues to call,7,7.3,Informatory,
+2024-05-28 - WHC - AI and EVs add to soaring elec,6,6,Quasi-scientific,Explains how higher demand for electricity due to AI use could lead to higher prices for consumers. 
+2024-05-28 - WHC - AI and EVs add to soaring elec,6,6.6,Quasi-scientific,Detailed explanation when it discusses the need for meeting electricity demand and the move away from fossil fuels. 
+2024-05-28 - WHC - AI and EVs add to soaring elec,8,8.1,Informatory,"Doesn't explain or state why having data in NZ is good, or what data sovereignty is. "
+2024-06-01 - STF - Is AI an existential threat to,7,7.1,Quasi-scientific,
+2024-06-01 - STF - Is AI an existential threat to,0,0,Informatory,
+2024-06-05 - RNZ - Software for new supermarket b,4,4.1,Informatory,Doesn't state why or how police could misuse the ANPR
+2024-06-05 - RNZ - Software for new supermarket b,6,6.5,Informatory,"Gives an example of having policy for some uses but not others, and identifies this with a negative tone (implying that bodycams won't be effectively governed). Doesn't explain or draw attention to AI systems being difficult to keep up with, policy-wise. "
+2024-06-09 - NZH - Dirty data is emerging as an A,8,8.1,Elucidating,
+2024-06-09 - NZH - Dirty data is emerging as an A,7,7.3,Elucidating,"Explains the garbage in and garbage out principle in enough depth to understand that AI can be incapable at tasks, and why. Doesn't explain any specific examples of what data AI may fail on, so this feels borderline explanatory. "
+2024-06-09 - NZH - Dirty data is emerging as an A,2,2.1,Quasi-scientific,"""When you start pointing artificial intelligence at your data, if it doesn't know what information should be served up to who, you start to have risk of privacy issues."" This describes AI potentially obtaining or leaking PPI. Good explanation of why AI might cause the leaking of personal information"
+2024-06-09 - NZH - Dirty data is emerging as an A,2,2.2,Informatory,
+2024-06-09 - NZH - Dirty data is emerging as an A,6,6.5,Informatory,
+2024-06-10 - RNZ - Dirty data poses risk to quali,7,7.3,Elucidating,"Explains the garbage in and garbage out principle in enough depth to understand that AI can be incapable at tasks, and why. Doesn't explain any specific examples of what data AI may fail on, so this feels borderline explanatory. "
+2024-06-10 - RNZ - Dirty data poses risk to quali,6,6.5,Informatory,
+2024-06-11 - SCP - Fact Checking Artificial Intel,3,3.1,Elucidating,"Doesn't explain how misinformation arises, just gives examples of AI that can and can't give references. "
+2024-06-11 - SCP - Fact Checking Artificial Intel,7,7.4,Elucidating,"Definition of white box and black box AI. Also points at the problem that we can't see why an AI tool has output the output that it did, but doesn't explain what causes this challenge. "
+2024-06-11 - SCP - Fact Checking Artificial Intel,5,5.1,Quasi-scientific,This article has enough explanation to effectively define overreliance through the assertion that we must switch on our brains and be critical thinkers. 
+2024-06-11 - SCP - Fact Checking Artificial Intel,4,4.3,Informatory,
+2024-06-12 - NZH - AI is ushering in a new era,0,0,Informatory,
+2024-06-12 - NZH - AI is ushering in a new era,6,6.5,Informatory,"A bit of a difficult one to class. Does seem to reference the upcoming legislation, and the need for that because of the risks that AI can create or exacerbate. But also implies it won't be hard to govern without describing any of the ways in which it may need to be governed. "
+2024-06-12 - NZH - AI is ushering in a new era,7,7.3,Informatory,
+2024-06-13 - RNZ - Youre going to have a flying t,7,7.3,Informatory,"References the idea that the trail may not have been effective, but doesn't disclose the nature of how AI may have failed or not been capable at the task. Also references the need for human checking, but doesn't explain why the AI may need checking. Therefore, informatory only. "
+2024-06-16 - NSM - Using AI could erode childrens,3,3.1,Elucidating,"Doesn't explain how/why AI can get thigns wrong, but just mentions that it can happen"
+2024-06-16 - NSM - Using AI could erode childrens,4,4.3,Quasi-scientific,
+2024-06-16 - NSM - Using AI could erode childrens,5,5.2,Quasi-scientific,
+2024-06-16 - NSM - Using AI could erode childrens,0,0,Informatory,
+2024-06-16 - NZH - Netsafes new AI tool hitting b,4,4.3,Quasi-scientific,
+"2024-06-17 - RDP - How much are councils, govt de",1,1.1,Elucidating,"""automated decisions based on […] biased processing"" seems to relate to Risk 1.1 (the AI learning a biased pattern from the dataset) rather than 1.3. "
+"2024-06-17 - RDP - How much are councils, govt de",6,6.5,Elucidating,States that it can be difficult for AI legislation to keep up with AI to effectively regulate it. Doesn't explain this in depth in relation to e.g. the pace of the technology. 
+"2024-06-17 - RDP - How much are councils, govt de",2,2.1,Quasi-scientific,"Borderline, but I'll call this explanatory as it mentions that AI can leak personal information in its outputs (even if it doesn't explain how the AI accesses this information, it does give a clear picture of Risk 2.1). "
+"2024-06-17 - RDP - How much are councils, govt de",6,6.2,Quasi-scientific,Explains that organizations that don't use AI may be at a disadvantage. 
+"2024-06-17 - RDP - How much are councils, govt de",0,0,Informatory,
+"2024-06-17 - RDP - How much are councils, govt de",1,1,Informatory,"Later references to discrimination may refer to more general uses of AI, so it's unclear exactly which type of risk (1.1 or 1.3) is being referred to here. "
+"2024-06-17 - RDP - How much are councils, govt de",2,2,Informatory,"A lot of these references do not clarify what kind of privacy/security risk they are concerned about. They do not explain how AI could give rise to these risks, either, apart from one case (privacy commissioner). Because these are different people talking, I have coded many of these examples as ""domain 2, no subdomain"" but will code any more specific references to subdomains (from other people) via their subdomain. "
+"2024-06-17 - RDP - How much are councils, govt de",5,5,Informatory,"A vague reference to the challenge of relying on automatic decision-making, but no clear consequences are explained or defined. "
+"2024-06-17 - RDP - How much are councils, govt de",4,4.3,Informatory,
+"2024-06-17 - RDP - How much are councils, govt de",7,7.4,Informatory,
+2024-06-18 - MWS - Online checks over-zealous,4,4.3,Elucidating,"Gives enough information to know what the issue is, if you didn't previously know what 'academic frud using AI' was: ""Byrnes said the use of generative AI-created content by students without attribution was a concern for universities worldwide."""
+2024-06-18 - MWS - Online checks over-zealous,7,7.3,Informatory,"There's an implication that the tool may not be effective, but they're stating that the tool is effective/accurate. This is an informatory reference, as it already assumes that you may understand that the tool raises false positives. "
+2024-06-20 - RNZ - New AI video tech- It brings a,4,4.1,Quasi-scientific,Relatively clear example of explanatory content for risk of political disinformation via deepfakes. 
+2024-06-20 - RNZ - New AI video tech- It brings a,3,3.2,Quasi-scientific,
+2024-06-20 - RNZ - Reality check- Headless flamin,8,8.4,Informatory,"Doesn't explain how AI leads to dehumanisation; it references the increasingly digital world, but doesn't really define any harm or risk from doing things digitally; it's assumed that the reader already knows why human disconnection is bad. "
+2024-06-25 - RNZ - 99 percent of terrorist materi,3,3.2,Informatory,"This article references misinformation and algorithmic interactions with misinformation, but doesn't actually describe or define the potential loss of consensus on reality, or distortion of reality through algorithmic serving of misinformation. Therefore, it's informatory. First section of description describes distortion of reality through misinformation (Risk 3.2) in that the algorithm is serving up and prompting false content. The rest of the section suggests that it isn't a problem, as they have a mechanism to help users recognise misinformation. However, the final paragraph also notes that people are concerned that algorithmic interaction with misinformation will become harder to track and study when Crowd Tangle is no longer operational. Therefore, this is a risk affirmation and negation. "
+2024-06-27 - PST - AI and recruitment  dont fear,7,7.3,Elucidating,"Demonstrates that AI tools may be incapable at the task they were descigned to do, but doesn't point at why. "
+2024-06-29 - STF - AI causes major rethink as uni,6,6.3,Elucidating,
+2024-06-29 - STF - AI causes major rethink as uni,8,8.4,Elucidating,"Explains the risk - that AI is a commodification/exploitation of the human spirit. Doesn’t really say how this is bad, other than tonal reaction. "
+2024-06-29 - STF - AI causes major rethink as uni,7,7.3,Elucidating,"Explains that Ai tools can be so sensitive that they turn up false positives; mentions that they're unable to deal with specific types of challenges. However, doesn't really explain why (quality of training data, or used on content that wasn't in the training data). "
+2024-06-29 - STF - AI causes major rethink as uni,3,3.1,Quasi-scientific,
+2024-06-29 - STF - AI causes major rethink as uni,4,4.3,Quasi-scientific,
+2024-06-29 - STF - Avatars game addresses childho,0,0,Informatory,"Safety concerns = unclear exactly what kind of concerns (even though psychologists mentioned, it's unclear what kind of psychological harm they're attempting to protect from). "
+"2024-07-03 - RNZ - AI for school tutoring, instan",4,4.1,Elucidating,"States the issue, but doesn't give a detailed explanation for how people use the technology in each case (e.g. how can deepfakes actually be used to influence opinion? See the article ""New AI video tech- It brings a..."" for an example of explanatory depth of deepfakes for political influence. "
+"2024-07-03 - RNZ - AI for school tutoring, instan",4,4.3,Elucidating,
+"2024-07-03 - RNZ - AI for school tutoring, instan",7,7.1,Elucidating,
+"2024-07-03 - RNZ - AI for school tutoring, instan",7,7.2,Elucidating,
+"2024-07-03 - RNZ - AI for school tutoring, instan",6,6.5,Quasi-scientific,"Explains that AI is developing fast enough to cause concern, and that NZ has no specific AI regulation. In context of the EU AI Act descriptions, this seems like enough information for a person to understand some reasons why AI is difficult to regulate. "
+"2024-07-03 - RNZ - AI for school tutoring, instan",6,6.4,Quasi-scientific,
+"2024-07-03 - RNZ - AI for school tutoring, instan",0,0,Informatory,"While it does list a range of applications that are high risk, it doesn't give a reason and therefore it is impossible to categorize this as a specific domain in the taxonomy. "
+"2024-07-03 - RNZ - AI for school tutoring, instan",3,3,Informatory,
+"2024-07-03 - RNZ - AI for school tutoring, instan",7,7,Informatory,
+"2024-07-03 - RNZ - AI for school tutoring, instan",7,7.3,Informatory,
+"2024-07-03 - RNZ - AI for school tutoring, instan",7,7.4,Informatory,
+2024-07-03 - RNZ - Experts cautiously optimistic,6,6.5,Elucidating,
+2024-07-03 - RNZ - Experts cautiously optimistic,7,7.3,Elucidating,
+2024-07-03 - RNZ - Experts cautiously optimistic,2,2.1,Quasi-scientific,
+2024-07-03 - RNZ - Experts cautiously optimistic,3,3.1,Quasi-scientific,
+2024-07-03 - RNZ - Experts cautiously optimistic,5,5.2,Quasi-scientific,
+2024-07-03 - RNZ - Experts cautiously optimistic,7,7.4,Informatory,
+2024-07-04 - RNZ - Concerns raised as GPs embrace,6,6.5,Quasi-scientific,
+2024-07-04 - RNZ - Concerns raised as GPs embrace,2,2.1,Informatory,
+2024-07-04 - RNZ - Concerns raised as GPs embrace,8,8.1,Informatory,
+2024-07-04 - RNZ - Concerns raised as GPs embrace,7,7.3,Informatory,
+"2024-07-08 - SPN - Fake news, AI slop and little",6,6.1,Elucidating,"Describes AI company having power because of their current power (scale), but doesn't explain the cycle of how AI systems could be used to reinforce that power. "
+"2024-07-08 - SPN - Fake news, AI slop and little",8,8.3,Elucidating,
+"2024-07-08 - SPN - Fake news, AI slop and little",4,4.3,Quasi-scientific,
+"2024-07-08 - SPN - Fake news, AI slop and little",1,1.2,Quasi-scientific,"Gives many examples of alarming content, including AI-generated content. Explains that this is part of a move to leverage vast amounts of AI-generated imagery to drive engagement. In context, the reader can build an understanding of why AI recommender algorithms may serve toxic content (explanatory reference to Risk 1.2). It doesn't give an explanation of why AI tools can generate toxic content, however, so if the algorithmic recommendation system wasn't mentioned, this would only be an informatory reference to Risk 1.2"
+"2024-07-08 - SPN - Fake news, AI slop and little",6,6.3,Quasi-scientific,
+"2024-07-08 - SPN - Fake news, AI slop and little",8,8.4,Quasi-scientific,"Explains how Facebook's newsfeed has resulted in a distancing from other humans in pursuit of profit, and degradation of the community connection. "
+"2024-07-08 - SPN - Fake news, AI slop and little",0,0,Informatory,It's unclear what kinds of risks generative AI and vertival video pose for young people and grandparents. 
+"2024-07-08 - SPN - Fake news, AI slop and little",3,3.2,Informatory,"References the increased slop in peoples' newsfeeds, and clearly denotes this as a problem, but doesn't explain why this might cause a problem, and what probloem it may cause other than their suggestion that Facebook is on the wrong track for community building, people power and closeness. Doesn't even mention the potential loss of trust in information, so this is just a reference without definition or explanatory content. "
+"2024-07-08 - SPN - Fake news, AI slop and little",6,6.2,Informatory,
+"2024-07-08 - SPN - Fake news, AI slop and little",6,6.5,Informatory,"References a consequence of AI moving too fast to be regulated effectively, but doesn't explicitly draw attention to this. Just assumes that the reader understands that it's difficult to regulate because it has moved too fast. "
+2024-07-16 - RNZ - AI could soon attend work meet,2,2.2,Elucidating,"Informatory reference: ""The key issue for me - from a privacy perspective - is that people are aware of what's being done with their personal information, where it's being stored, whether it's being stored securely, and whether it's being protected from inappropriate access or use."""
+2024-07-16 - RNZ - AI could soon attend work meet,6,6.5,Elucidating,"AI moves fast, firms need to do assessments; our current legislation doesn't effectively regulate privacy act breaches for the scale of harm that could occur. "
+2024-07-16 - RNZ - AI could soon attend work meet,8,8.4,Elucidating,
+2024-07-16 - RNZ - AI could soon attend work meet,2,2.1,Quasi-scientific,"Spends most of the article discussing risks arising under Risk 2.1, so the initial sentence has been taken as a reference to that. Explanatory content: ""You have to provide them with the audio, and you might not have control over what happens to that audio afterwards. Once they've transcribed it, they're going to keep a record of that text, you might not have much control over what happens to that text. It's all buried in the terms and conditions."""
+2024-07-16 - RNZ - AI could soon attend work meet,5,5.2,Informatory,
+2024-07-16 - RNZ - AI could soon attend work meet,7,7.3,Informatory,
+2024-07-16 - RNZ - Government checks for bias in,1,1.3,Quasi-scientific,"Explains rate of incidence of this risk, and explains that it was due to models trained on existing imbalanced datasets, and how incidence of the risk can be reduced by generating synthetic data."
+2024-07-16 - RNZ - Government checks for bias in,7,7.3,Quasi-scientific,Links additional training data to improvement in AI system
+2024-07-16 - RNZ - Government checks for bias in,4,4.1,Informatory,
+2024-07-16 - RNZ - Government checks for bias in,4,4.3,Informatory,
+"2024-07-18 - SPN - The more you know about AI, th",6,6.4,Elucidating,"Doesn't actually explain the risk of cutting corners, just references the arms race and states that text companies need the next big thing. Does give some reason for the race (financial) so I'll count this as a definition. "
+"2024-07-18 - SPN - The more you know about AI, th",7,7.3,Elucidating,
+"2024-07-18 - SPN - The more you know about AI, th",0,0,Informatory,
+"2024-07-18 - SPN - The more you know about AI, th",7,7,Informatory,
+"2024-07-18 - SPN - The more you know about AI, th",5,5.1,Informatory,Anthropomorphizing= referenced but not explained as to why this might be bad. 
+"2024-07-18 - SPN - The more you know about AI, th",6,6.3,Informatory,
+"2024-07-18 - SPN - The more you know about AI, th",6,6.5,Informatory,
+2024-07-18 - TST - Report warns of barrier to rea,6,6.3,Elucidating,
+2024-07-18 - TST - Report warns of barrier to rea,6,6.5,Elucidating,
+2024-07-18 - TST - Report warns of barrier to rea,6,6.2,Quasi-scientific,
+2024-07-18 - TST - Report warns of barrier to rea,8,8.4,Informatory,
+2024-07-25 - MWS - Massey University working on g,0,0,Informatory,
+2024-07-25 - MWS - Massey University working on g,2,2,Informatory,
+2024-07-25 - MWS - Massey University working on g,4,4.3,Informatory,"Reference to academic misconduct clearly in ""research publishing and ethical research conduct."" "
+2024-07-25 - MWS - Massey University working on g,8,8.2,Informatory,
+2024-07-25 - MWS - Massey University working on g,6,6.1,Informatory,
+2024-07-25 - MWS - Massey University working on g,7,7.4,Informatory,
+2024-07-25 - RNZ - Killer robot advisory group sh,4,4.2,Elucidating,"Doesn't explain exactly how AI can accellarate violence, but does define the problem of AI exaccerbating this violence"
+2024-07-25 - RNZ - Killer robot advisory group sh,6,6.5,Elucidating,"Doesn't explain any reasons why it's difficult to regulate AI, just that international use is increasing and international regulation is stalled. "
+2024-07-25 - RNZ - Killer robot advisory group sh,7,7.2,Quasi-scientific,"Explains consequences of AI having these tools - accelerates the violance on the battlefield, and aplifies the potential for mistakes. "
+2024-07-25 - RNZ - Killer robot advisory group sh,6,6.4,Informatory,"Doesn't define this as a race dynamic leading to unsafe application of the technology, just states that we're seeing the increased use in AI. "
+2024-07-27 - STF - Meet the professor making the,6,6.2,Elucidating,
+2024-07-27 - STF - Meet the professor making the,6,6.5,Elucidating,"Doesn't explain why it's difficult to govern AI, but just defines that it is difficult and change can be slow. "
+2024-07-27 - STF - Meet the professor making the,4,4.3,Quasi-scientific,
+2024-07-27 - STF - Meet the professor making the,0,0,Informatory,
+2024-07-28 - NZH - Has Soul Machines missed AI bo,6,6.1,Informatory,
+2024-08-01 - GHT - Cameras cause delay Councillor,2,2,Quasi-scientific,"Explains that information from cameras could be given to third-parties, and wants to prevent that. It's unclear exactly what kind of privacy or security they are concerned about, but it's clear that they are concerned about information being passed to their third party suppliers. "
+2024-08-01 - RNZ - Can only damage trust - NZME u,3,3.2,Quasi-scientific,Clearly explains how increase in AI generated content without labels may make it more difficult to tell reality
+2024-08-01 - RNZ - Can only damage trust - NZME u,6,6.3,Quasi-scientific,
+2024-08-02 - RNZ - NZ joins US military exercises,4,4.2,Elucidating,"AI is upercharging clearly states the problem, but doesn't explain how. "
+2024-08-02 - RNZ - NZ joins US military exercises,7,7.2,Quasi-scientific,
+2024-08-02 - RNZ - NZ joins US military exercises,6,6.5,Informatory,
+2024-08-02 - RNZ - NZ joins US military exercises,6,6.4,Informatory,
+2024-08-02 - RNZ - NZME calls all-staff meeting a,3,3.2,Informatory,"In contrast to ""can only damage trust"" article from RNZ, this one doesn't explain why increased use of AI-generated content could damage public trust. "
+2024-08-02 - RNZ - When an algorithm is your boss,5,5.2,Informatory,
+2024-08-03 - RNZ - The huge playground of AI musi,6,6.5,Quasi-scientific,
+2024-08-03 - RNZ - The huge playground of AI musi,6,6.3,Informatory,Doesn't actually reference the potential for creative industries to become less good. 
+2024-08-03 - RNZ - The huge playground of AI musi,7,7.4,Informatory,
+2024-08-04 - RNZ - AI editorial puts spotlight on,8,8,Elucidating,
+2024-08-04 - RNZ - AI editorial puts spotlight on,1,1.1,Elucidating,"References and example of tradespeople seeing content that is not representative of them, and was generated by AI. Clearly 1.1. Does not explain that AI is reproducing patterns present in the training data. "
+2024-08-04 - RNZ - AI editorial puts spotlight on,6,6.5,Elucidating,"Introduces a few ways in which governing AI systems can be difficult: AI detection programmes aren't a silver bullet, existing policies may actually allow certain uses that don't feel like they should be allowed… However, it doesn't explain these in much detail, and doesn't draw any explanation about the reason why AI creates these issues, so not explanatory. "
+2024-08-04 - RNZ - AI editorial puts spotlight on,7,7.3,Elucidating,"States a limitation of the AI tool - that it can be inaccurate (not foolproof), and also points at the inability to show how much a role AI had in the creation of the article. "
+2024-08-04 - RNZ - AI editorial puts spotlight on,3,3.2,Quasi-scientific,"The explanatory section of this article is: """"How do we trust that what is being shared is actually true?"" ""Step by step, [AI] is going to get more and more convincing. People won't know what is real and what is not."""
+2024-08-04 - RNZ - AI editorial puts spotlight on,3,3.1,Informatory,"Very little information about what they mean by accidentally inserting errors, and whether this is even a feference to AI-generated errors, or human errors. "
+2024-08-04 - RNZ - AI editorial puts spotlight on,5,5.1,Informatory,
+2024-08-04 - RNZ - AI editorial puts spotlight on,6,6.2,Informatory,
+2024-08-04 - RNZ - AI editorial puts spotlight on,6,6.3,Informatory,
+2024-08-05 - TDN - AI helped write this story abo,6,6.3,Quasi-scientific,
+2024-08-05 - TDN - AI helped write this story abo,3,3.1,Informatory,"Gives a clear example of the AI producing misinformation, and denotes this as a caveat to the impressive performance. Does not explicitly describe how or why misinformation is an issue. "
+2024-08-05 - TDN - AI helped write this story abo,7,7.3,Informatory,Indicates that the AI isn't capable at writing a joke. 
+2024-08-11 - RNZ - The surveilled society- Who is,4,4.1,Informatory,"Clearly notes examples of potential surveillance technology, but doesn't actually say why surveillance could be misuse. Expects the reader to aclready know what kind of misuse could occur. "
+2024-08-11 - RNZ - The surveilled society- Who is,8,8.1,Informatory,"States where it might be stored, with negative tone, but doesn't actually say why it might be bad to store data overseas. "
+2024-08-11 - RNZ - The surveilled society- Who is,6,6.5,Informatory,"Doesn't actually explain how or why it is difficult to regaulte AI technology, or even say that it is difficult to regulate. Just describes a range of uses and legal challenges without defining what makes AI governance challenging. "
+"2024-08-17 - STF - Forget imaginary friends, how",0,0,Informatory,References 'ethical concerns' without giving details
+"2024-08-17 - STF - Forget imaginary friends, how",3,3.1,Informatory,
+2024-08-19 - RNZ - AI to deal $570m blow to Austr,8,8.2,Elucidating,"States that there's a risk of cultural misappropriation, but doesn't spell out why or how AI creates this risk (i.e. by reproducing patterns from data in ways that don't reflect the true cultural traditions with integrity). "
+2024-08-19 - RNZ - AI to deal $570m blow to Austr,6,6.5,Elucidating,"States the importance of appropriate regulation, but doesn't explain why AI is difficult to regulate. "
+2024-08-19 - RNZ - AI to deal $570m blow to Austr,6,6.3,Quasi-scientific,Explains how AI can lead to the devaluation of cultural and creative works in detail. 
+2024-08-19 - RNZ - AI to deal $570m blow to Austr,8,8.4,informatory,
+2024-08-20 - RNZ - Autonomous mowers in school fi,0,0,Informatory,"Unclear what the ""build-in safety features"" are (and seems liike this is a separate clause to the reference of environmental impact)"
+2024-08-20 - RNZ - NZ Police finally has facial r,8,8.2,Elucidating,Poses the risk or harm: that Māori consider biometric information a taonga. 
+2024-08-20 - RNZ - NZ Police finally has facial r,6,6.5,Quasi-scientific,"Gives examples of the lack of oversight, though indicating that police are asked to police themselves on the appropriate policies; that it can be strict in some ways and loose in others, and ""there is the ever-present risk of internal policy settings changing due to changes in leadership or attitudes."" "
+2024-08-20 - RNZ - NZ Police finally has facial r,0,0,Informatory,The controversy relating to human rights is unclear from the article. 
+2024-08-20 - RNZ - NZ Police finally has facial r,1,1,Informatory,Doesn't clearly identify what kind of bias or discrimination
+2024-08-20 - RNZ - NZ Police finally has facial r,2,2,Informatory,
+2024-08-20 - RNZ - NZ Police finally has facial r,4,4.1,Informatory,"Effectively states that there's a need for use of FRT to be lawful, proportionate and appropriate. Doesn't explain much about why this matters (assumes the reaer already knows why overzealous access to surveillance tech would be bad). "
+2024-08-20 - RNZ - NZ Police finally has facial r,8,8.1,informatory,
+2024-08-21 - RNZ - ACC sees benefits in using AI,2,2,Informatory,
+2024-08-21 - RNZ - ACC sees benefits in using AI,3,3.1,Informatory,
+2024-08-23 - PST - AI could threaten $572m of NZ,8,8.4,Elucidating,
+2024-08-23 - PST - AI could threaten $572m of NZ,6,6.2,Quasi-scientific,
+2024-08-23 - PST - AI could threaten $572m of NZ,6,6.3,Quasi-scientific,
+2024-08-23 - PST - AI could threaten $572m of NZ,6,6.5,Quasi-scientific,
+2024-08-23 - PST - AI could threaten $572m of NZ,2,2,Informatory,
+2024-08-23 - PST - AI could threaten $572m of NZ,4,4,Informatory,Doesn't really state how AI could be used or misused. 
+2024-08-23 - PST - AI could threaten $572m of NZ,8,8.2,informatory,
+2024-08-24 - RNZ - Why internet searches are serv,6,6.1,Elucidating,Doesn't explicitly draw attention to the concerntration of power that can be reinforced through AI. Just draws attention to the imbalance in power and the reliance of media companies on clickthrough revenue. 
+2024-08-24 - RNZ - Why internet searches are serv,3,3.2,Quasi-scientific,Clearly explains lack of consensus of reality. 
+2024-08-24 - RNZ - Why internet searches are serv,4,4.3,Quasi-scientific,
+2024-08-24 - RNZ - Why internet searches are serv,6,6.3,Quasi-scientific,Explains ease and manner of AI use to copy creative works in ways that produce low-quality products. 
+2024-08-24 - STF - Should firms keep an eye on th,3,3.1,Elucidating,
+2024-08-24 - STF - Should firms keep an eye on th,6,6.5,Elucidating,
+2024-08-24 - STF - Should firms keep an eye on th,7,7.3,Elucidating,
+2024-08-24 - STF - Should firms keep an eye on th,5,5.2,Informatory,"Doesn't actually define the risk of giving too much power to AI, though it does treat this as a negative through the emphasis on a human-enabled future. "
+2024-08-25 - NZH - War of the AI bots,3,3.2,Quasi-scientific,
+2024-08-25 - NZH - War of the AI bots,4,4.1,Quasi-scientific,
+2024-08-25 - NZH - War of the AI bots,6,6.5,Quasi-scientific,
+2024-08-25 - NZH - War of the AI bots,7,7.3,Informatory,
+2024-08-25 - STF - Jobseeker interviewed by 100 r,1,1,Elucidating,"""Concerned that they chat bots are rejecting them unfairly"" isn't clear exactly what kind of unfair rejection is occurring. "
+2024-08-25 - STF - Jobseeker interviewed by 100 r,6,6.5,Elucidating,"Doesn't explain why AI is difficult to regulate, but does give examples of other laws. Merely states the problem. "
+2024-08-25 - STF - Jobseeker interviewed by 100 r,7,7.3,Elucidating,"Explains how AI can over-index on specific features (qualifications on experience) and not consider other skills. Doesn't link this to the data that it was trained on, so only a definition of the risk/harm. "
+2024-08-25 - STF - Jobseeker interviewed by 100 r,1,1.1,Quasi-scientific,"Assumes the audience already knows that an English first name will be privileged by the dataset. However, gives an explanation lower down that Schellmann is concerned about false assumptions built into the tools. "
+2024-08-25 - STF - Jobseeker interviewed by 100 r,5,5.1,Quasi-scientific,
+2024-08-25 - STF - Jobseeker interviewed by 100 r,5,5.2,Quasi-scientific,"Through the examples provided about Shastry's experience, I think this is explanatory: The candidate experience can be poor, and it's very difficult to make your way through the maze of interviews to met a human, and it's very impresonal and difficult to challenge decisions. "
+2024-08-25 - STF - Jobseeker interviewed by 100 r,8,8.4,Quasi-scientific,
+2024-08-25 - STF - Jobseeker interviewed by 100 r,2,2.2,Informatory,
+2024-08-25 - STF - Jobseeker interviewed by 100 r,6,6.2,Informatory,"Shows an example of the relationship between employer and employee becoming more explitative, but doesn't actually define this as such. "
+2024-08-25 - STF - Jobseeker interviewed by 100 r,7,7.4,Informatory,
+2024-08-29 - PST - Scammers are going phishing fo,4,4.3,Quasi-scientific,"This article gives examples of how deepfakes were used to create a fake profile of the person, and that was used to scam people. Clearly explanatory. "
+2024-08-29 - RNZ - How your social media posts ar,6,6.1,Elucidating,
+2024-08-29 - RNZ - How your social media posts ar,2,2.1,Quasi-scientific,Clear explanation of how AI tools can leak people's information if it appears in their training data. 
+2024-08-29 - RNZ - How your social media posts ar,4,4.1,Quasi-scientific,
+2024-08-29 - RNZ - How your social media posts ar,6,6.5,Quasi-scientific,
+2024-08-29 - RNZ - How your social media posts ar,8,8.3,Quasi-scientific,
+2024-08-29 - RNZ - How your social media posts ar,6,6.4,Quasi-scientific,
+2024-08-29 - RNZ - How your social media posts ar,4,4.3,Informatory,
+2024-08-29 - RNZ - How your social media posts ar,6,6.3,Informatory,
+2024-09-05 - TAM - Peter Lucas Jones joins Zuc,8,8.2,Quasi-scientific,
+2024-09-06 - NAD - Te Hiku CEO on top 100 list al,8,8.2,Quasi-scientific,
+2024-09-09 - WAA - Peter Lucas Jones ranked wi,8,8.2,Quasi-scientific,
+2024-09-11 - RNZ - Defence Force at global summit,6,6.5,Informatory,
+2024-09-11 - RNZ - Regulator holds off setting ru,0,0,Informatory,
+2024-09-12 - NZH - Harris endorsement comes Swift,4,4.1,Quasi-scientific,
+2024-09-18 - RNZ - Te reo Maori needs to go digit,0,0,Informatory,
+2024-09-20 - SPN - Beware the online menus with A,6,6.5,Elucidating,
+2024-09-21 - RNZ - ACC trial of artificial intell,2,2.2,Elucidating,"""Whether by hacking"" is the reference here - doesn't explain how an AI tool could be hacked. "
+2024-09-21 - RNZ - ACC trial of artificial intell,7,7.3,Elucidating,
+2024-09-21 - RNZ - ACC trial of artificial intell,1,1,Informatory,
+2024-09-21 - RNZ - ACC trial of artificial intell,4,4,Informatory,
+2024-09-21 - RNZ - ACC trial of artificial intell,2,2.1,Informatory,"Suggests making sure that personal information is not entered directly in the AI tool, but doesn't explain why. Also mentions that privacy breaches of personal information may occur, but doesn't mention that an AI tool may learn from information the developer collected via users. "
+2024-09-23 - RNZ - Schools abandon take-home assi,1,1,Elucidating,"This sentence is describing clear bias where the tool performs less accurately (""false positives through AI detectors"") for second-language students. It's unclear why - whether it was due to biases in the training data, or lack of sufficient examples in the training data that led to this result. "
+2024-09-23 - RNZ - Schools abandon take-home assi,4,4.3,Elucidating,"Doesn't explicity say how AI is being used to cheat, although it may be borderline explanatory. However, I've chosen to treat this as a definition because it's not as explicit as the discussion in the ""student using artificial intelligence…"" article on the same day; this present article doesn't explicitly say that students are using AI to produce high quality work without the learning. "
+2024-09-23 - RNZ - Schools abandon take-home assi,7,7.3,Elucidating,
+2024-09-23 - RNZ - Schools abandon take-home assi,6,6.5,Quasi-scientific,"States that's it's difficult because AI is advancing fast and also that current tools to detect cheating can't keep up, so it's very difficult to draft clear policy that polices the behaviour they are attempting to police. "
+2024-09-23 - RNZ - Students using artificial inte,6,6.5,Elucidating,
+2024-09-23 - RNZ - Students using artificial inte,7,7.3,Elucidating,
+2024-09-23 - RNZ - Students using artificial inte,5,5.2,Quasi-scientific,
+2024-09-23 - RNZ - Students using artificial inte,4,4.3,Quasi-scientific,
+2024-09-24 - RNZ - AI use in NZ schools- I just p,6,6.2,Elucidating,
+2024-09-24 - RNZ - AI use in NZ schools- I just p,6,6.5,Quasi-scientific,"States that it's difficult because of rapid development, and has some explanation that it's difficult to govern effectively because teachers don't understand how it can be used. Borderline explanatory/definition-only. "
+2024-09-24 - RNZ - Government using artificial in,2,2.1,Informatory,
+"2024-09-25 - WAA - Teach AI ethics, enhance ed",4,4.3,Elucidating,
+"2024-09-26 - SPN - With the deepest respect, Juli",2,2.1,Elucidating,"This article is referencing the use of personal data (albeit publicly available personal data) to train AI systems (Risk 2.1). It doesn't actually explain the risk that personal information could be shared byt eh AI system, just that it was used to train it. Therefore, I'm classing this as an informatory reference (it's bad that your personal data can be used to train the system, but it doesn't explain why because it already assumes the reader understands consequences of this). "
+"2024-09-26 - SPN - With the deepest respect, Juli",6,6.4,Elucidating,"Someone who didn't know anything about AI arms races would now understand that companies are racing and therefore scooping up data. However, this doesn't explain the reasons why companies are racing, nor a detailed understanding of how race dynamics impacts users rights (this sentence is quite short). "
+"2024-09-26 - SPN - With the deepest respect, Juli",8,8.3,Quasi-scientific,Poses the idea that Meta is collecting all of the data in order to train it's AI. Another section of the article exaplains that there's an incentive for increased data collection due to the AI Arms race
+"2024-09-26 - SPN - With the deepest respect, Juli",6,6.5,Informatory,
+2024-09-27 - NSM - AI community project seeding n,6,6.3,Elucidating,
+2024-09-27 - NSM - AI community project seeding n,8,8.2,Informatory,
+2024-09-30 - RNZ - Is New Zealand ready for AI-ge,6,6.3,Elucidating,Doesn't explain the consequences on quality of creative works. 
+2024-09-30 - RNZ - Is New Zealand ready for AI-ge,3,3.2,Informatory,"In context, this suggests that New Zealanders may be unable to tell whether content is AI generated. "
+2024-09-30 - RNZ - Is New Zealand ready for AI-ge,6,6.5,Informatory,
+2024-10-07 - RNZ - Psychologist sounds alarm on u,5,5.1,Elucidating,"Doesn't explain why these will be unsafe, or what kind of advice might be a bad fit and why AI creates the risk here. "
+2024-10-07 - RNZ - Psychologist sounds alarm on u,7,7.3,Elucidating,Doesn't really explain why the AI is not competent at the task
+2024-10-07 - RNZ - The robots already working in,7,7.3,Elucidating,
+2024-10-07 - RNZ - The robots already working in,6,6.2,Quasi-scientific,
+2024-10-07 - RNZ - The robots already working in,8,8.4,Quasi-scientific,
+2024-10-07 - STF - Nobel Prize in physics awarded,5,5.2,Elucidating,
+2024-10-07 - STF - Nobel Prize in physics awarded,0,0,Informatory,
+2024-10-08 - PRS - Godfather of AI wins Nobel Pri,0,0,Informatory,
+2024-10-08 - PRS - Godfather of AI wins Nobel Pri,7,7.1,Informatory,
+2024-10-11 - RNZ - How artificial intelligence co,5,5.1,Elucidating,"Doesn't actually say that AI can be prone to failure and provide inaccurate advice, therefore overreliance can cause harm. Focuses instead of the need for humans to remain accountable and in control, rather than relying solely on AI. "
+2024-10-11 - RNZ - How artificial intelligence co,0,0,Informatory,
+2024-10-13 - RNZ - Governments Identity Check fac,1,1.3,Elucidating,"References that AI has historically been less accurate, but doesn't explain why this might be the case, so is only informatory reference. "
+2024-10-13 - RNZ - Governments Identity Check fac,2,2.2,Elucidating,"Borderline. Doesn't explain how AI might be hacked, nor how connection to other insecure systems could lead to it being vulnerable to hacking, so this is an informatory reference. "
+2024-10-14 - NSM - Schools and AI - how one teach,5,5.2,Elucidating,
+2024-10-14 - NSM - Schools and AI - how one teach,4,4.3,Elucidating,Defines the issue through the negative: Students must learn that they can't use AI to replace their own learning. 
+2024-10-14 - NSM - Schools and AI - how one teach,4,4,Informatory,
+2024-10-14 - NSM - Schools and AI - how one teach,3,3.1,Informatory,"Doesn't actually define or explain what a hallucination is, but this might be easy to impl from context. "
+2024-10-15 - BOP - Homegrown AI tool can help del,2,2.1,Elucidating,
+2024-10-15 - BOP - Homegrown AI tool can help del,3,3.1,Elucidating,"Does explain that it won't be correct the whole time, but doesn't explain why or how this inaccurate information arises, and therefore Informatory rather than Explanatory. "
+2024-10-15 - BOP - Homegrown AI tool can help del,8,8.1,Elucidating,"Doesn't explain why this is important, but does state that it's importyant to ensure things remain inside NZ legislative oversight. "
+2024-10-15 - BOP - Homegrown AI tool can help del,2,2,Informatory,
+2024-10-15 - BOP - Homegrown AI tool can help del,6,6.1,Informatory,States that AI platforms are fixed without linking this to a power concentration. But does draw attention to the ability of AI companies to control how their AI tools are used. 
+2024-10-17 - PRS - Will there really be a $10b AI,8,8,Quasi-scientific,"Explaining the risk of increased AI snake-oil products or investnments, by explaining the validity of this person's claims and background for the task. "
+2024-10-17 - SCP - NZQA To Trial Computer-marking,7,7.3,Elucidating,Defines the issue - that it may not be as accurate as human markers - but doesn't explain why there may be a limitation or ceiling on it's accuracy. 
+2024-10-18 - NZH - PMs name used in crypto con,4,4.3,Quasi-scientific,
+2024-10-18 - NZH - PMs name used in crypto con,6,6.5,Informatory,References that the current policy isn't good enough to prevent harm. 
+2024-10-19 - RNZ - Scam Facebook ads targeting me,8,8,Elucidating,Loss of reputation of a media company
+2024-10-19 - RNZ - Scam Facebook ads targeting me,8,8.3,Elucidating,
+2024-10-19 - RNZ - Scam Facebook ads targeting me,4,4.3,Quasi-scientific,
+2024-10-19 - RNZ - Scam Facebook ads targeting me,6,6.5,Quasi-scientific,
+2024-10-19 - RNZ - Why Google Maps cant pronounce,1,1.3,Quasi-scientific,"Explains that the benchmark is lower for global tech companies' accuracy at te reo, therefore allowing the reader to build an understanding of why it lags behind in pronunciation. "
+2024-10-19 - RNZ - Why Google Maps cant pronounce,6,6.1,Quasi-scientific,
+2024-10-20 - WHC - AI models can forecast flu num,0,0,Informatory,
+2024-10-30 - RNZ - NIWA turning to AI to forecast,7,7.3,Quasi-scientific,"Identifies that it may not be accurate because it learned patterns relating to Westport, but they're insure if it will be accurate for other areas. "
+2024-10-30 - STF - Embracing AI can be scary but,8,8,Elucidating,
+2024-10-30 - STF - Embracing AI can be scary but,0,0,Informatory,"Unclear what ""safe use of the technology"" is referring to. "
+2024-10-30 - STF - Embracing AI can be scary but,2,2.1,Informatory,
+2024-10-30 - STF - Embracing AI can be scary but,6,6.2,Informatory,"Mentions that AI will impact industries, and that there's a choice of adopting or burying heads in the sand. This doesn't give any further information to draw attention to the potential consequences of this; it assumes that the reader already knows consequences of whichever option is chosen. "
+2024-10-30 - STF - Embracing AI can be scary but,6,6.3,Informatory,
+2024-11-05 - RNZ - Why AI wont ruin childrens edu,6,6.5,Elucidating,
+2024-11-05 - RNZ - Why AI wont ruin childrens edu,5,5.2,Quasi-scientific,
+2024-11-05 - RNZ - Why AI wont ruin childrens edu,4,4.3,Quasi-scientific,"Gives some explicit examples of how AI can be used to aid cheating, incluing humanization of writing. "
+2024-11-06 - NAD - Diabetes ad scam alarms uni ex,4,4.3,Quasi-scientific,
+2024-11-06 - PST - Company behind chatbot sees st,6,6.5,Elucidating,
+2024-11-06 - PST - Company behind chatbot sees st,7,7.3,Quasi-scientific,"Explains that there's a failure of producing text that it shouldn't, but also that the failure is due to the user spending hours with the tool and learning how to make it do this via prompt injection; explains that the normal user would only use it for a few minutes. Together, this gives the reader enough understanding to see that AI deployed in some contexts can behave differently to the intended behaviour. "
+2024-11-06 - PST - Company behind chatbot sees st,1,1.2,Informatory,"Gives examples, but doesn't explain why an AI tool may be able to produce toxic content like this. "
+2024-11-06 - TST - Deepfake of academic used to h,4,4.3,Elucidating,
+2024-11-08 - SCP - AI Expert Concerned No Maori W,1,1.3,Elucidating,"Borderline informatory/explanatory. This article draws explicit attention towards the low sample size, meaning that it's clearly identifying Risk 1.3. It mentions that it may have higher error rates for Māori and Pasifika, and relates this to the machine's potential inability to deal with shadows, blur, lighting, or potentially Tā moko. This gives a reasonable amount of explanation such that a reader could understand the AI system may not be able to discern between faces that it hasn't had sufficient training on. "
+2024-11-08 - WAA - Education experts urge care,0,0,Informatory,
+2024-11-08 - WAA - Education experts urge care,5,5.2,Informatory,
+2024-11-11 - RNZ - Deep fake porn showing up in N,1,1.2,Elucidating,"Doesn't explain that AI can produce toxic content in relation to the data it was trained on, so doesn't build an understanding of how AI generates toxic content other than ""a tool exists that can do this."""
+2024-11-11 - RNZ - Deep fake porn showing up in N,6,6.5,Elucidating,
+2024-11-11 - RNZ - Deep fake porn showing up in N,4,4.3,Quasi-scientific,
+2024-11-18 - RNZ - AI tutors show promise but sho,6,6.2,Elucidating,
+2024-11-18 - RNZ - AI tutors show promise but sho,5,5.2,Quasi-scientific,
+2024-11-18 - RNZ - AI tutors show promise but sho,8,8.4,Quasi-scientific,Gives a justification for why the replacement of teachers would be a loss - that there wouldn't be the relational human aspect that inspires and motivates students. 
+2024-11-21 - TAM - Experts explore using AI in,6,6.1,Elucidating,
+2024-11-21 - TAM - Experts explore using AI in,1,1.3,Quasi-scientific,
+2024-11-21 - TAM - Experts explore using AI in,4,4.3,Informatory,
+2024-11-21 - TAM - Experts explore using AI in,8,8.2,Informatory,
+2024-11-22 - WAA - Symposium prepares lecturer,6,6.2,Elucidating,
+2024-11-29 - STF - Asleep at the wheel Self-driv,5,5.1,Elucidating,"Gives an example of overreliance and draws attention to the inability to safely navigate a situation because of that overreliance.However, falls short of explaining the overreliance on AI caused the issue (as a nature of the court case being an undecided verdict, and an alternative defense being laid). "
+2024-11-29 - STF - Asleep at the wheel Self-driv,6,6.5,Quasi-scientific,
+2024-11-29 - STF - Asleep at the wheel Self-driv,7,7.3,Informatory,Assumes the audience already understands autopilot malfunctions. 
+2024-12-03 - RNZ - Adopting a single AI app for g,2,2.2,Elucidating,"Defines the risk: that a single tool can create a single target for hacking, and a single point or risk and failure with respect to that. Doesn't explain how AI might be hacked, nor how connection to other insecure systems could lead to it being vulnerable to hacking, so this is an informatory reference. "
+2024-12-03 - RNZ - Adopting a single AI app for g,1,1.3,Informatory,
+2024-12-04 - NZH - The rapid rise and rise of,3,3.1,Elucidating,
+2024-12-04 - NZH - The rapid rise and rise of,6,6.3,Quasi-scientific,
+2024-12-06 - STF - Next-gen AI is on its way  for,4,4.3,Quasi-scientific,
+2024-12-06 - STF - Next-gen AI is on its way  for,6,6.2,Quasi-scientific,
+2024-12-06 - STF - Next-gen AI is on its way  for,2,2,Informatory,
+2024-12-06 - STF - Next-gen AI is on its way  for,6,6,Informatory,
+2024-12-06 - STF - Next-gen AI is on its way  for,3,3.1,Informatory,
+2024-12-06 - STF - Next-gen AI is on its way  for,1,1.2,Informatory,
+2024-12-06 - STF - Next-gen AI is on its way  for,6,6.1,Informatory,
+2024-12-06 - STF - Next-gen AI is on its way  for,6,6.5,Informatory,"References the need for strong policy around the use of AI, and in which parts of the business (procurement, development and deployment), but doesn't explain why it's necessary or difficult. "
+2024-12-06 - STF - Next-gen AI is on its way  for,8,8.4,Informatory,"References the idea that humans are valuable, and removing them would be remocing value - but doesn’t explain this in detail. "
+2024-12-12 - RNZ - Data centres ride AI boom in w,6,6.6,Quasi-scientific,
+2024-12-15 - RNZ - AI influencing Christmas gift,8,8,Elucidating,"There's something here around the risk of spaces becoming commercialised, but it isn't quite clear what this risk is (so definition rather than explanation). "
+2024-12-15 - RNZ - AI influencing Christmas gift,8,8.4,Quasi-scientific,Explains how the use of AI may shortcut the part of gift-giving that people find meaningful
+2024-12-19 - NSM - Taking art from Artificial Int,5,5.2,Elucidating,
+2024-12-19 - NSM - Taking art from Artificial Int,0,0,Informatory,"""Dystopia"" is unclear about what kinds of harm are caused by AI. "
+2024-12-19 - NSM - Taking art from Artificial Int,6,6,Informatory,
+2024-12-19 - NSM - Taking art from Artificial Int,6,6.3,Informatory,
+2024-12-19 - NSM - Taking art from Artificial Int,6,6.6,Informatory,
+2025-01-05 - RNZ - Diabetes doctor caught in up d,4,4.3,Quasi-scientific,
+2025-01-09 - SCP - Trailblazer On Upskilling Kiwi,0,0,Informatory,
+2025-01-09 - SCP - Trailblazer On Upskilling Kiwi,2,2,Informatory,
+2025-01-14 - NZH - Woman loses $1.5m in Pitt scam,4,4.3,Elucidating,Presents enough information for someone who didn't undertand AI deepfake scame to understand what the risk is. 
+2025-01-15 - NZH - From 3G shutdown to AI slop- T,3,3.1,Elucidating,Doesn't explain how or why the AI gives correct answers
+2025-01-15 - NZH - From 3G shutdown to AI slop- T,4,4.3,Elucidating,"Doesn't explain how this is a scam, other than misrepresenting the authenticity of the fake users. Also doesn't actually explain how AI would help with this, other than ""AI was used to generate fake profiles."" "
+2025-01-15 - NZH - From 3G shutdown to AI slop- T,3,3.2,Quasi-scientific,"This article contains enough information to constitute an explanatory reference, as it says ""making it impossible to know what LA firefighting or newgadget stills or video in your social feeds are real or fake"" and ""There's been speculation by pundits that Meta could use AI-generated users to push products as fake â€œinfluencersâ€ or to just make make its users feel better by padding their likes, comments and follower counts with artificial profiles and AI-generated content."" Together, the reader can build a new understanding that this type of use of AI may make it difficult to know whether content they see online is reflective of reality. "
+2025-01-15 - NZH - From 3G shutdown to AI slop- T,1,1.2,Informatory,
+2025-01-15 - NZH - From 3G shutdown to AI slop- T,6,6.3,Informatory,
+2025-01-25 - NZH - AI child sex images sound alar,1,1.2,Elucidating,"Doesn't explain that AI can produce toxic content in relation to the data it was trained on, so doesn't build an understanding of how AI generates toxic content other than ""a tool exists that can do this."""
+2025-01-25 - NZH - AI child sex images sound alar,8,8,Quasi-scientific,Explains why the flood of AI-generated imagery can cause harm in the real world. 
+2025-01-25 - NZH - AI child sex images sound alar,4,4.3,Quasi-scientific,
+2025-01-25 - NZH - AI child sex images sound alar,6,6.5,Quasi-scientific,
+2025-01-28 - RNZ - AI integration in education mu,8,8,Elucidating,
+2025-01-28 - RNZ - AI integration in education mu,4,4.3,Elucidating,
+2025-01-28 - RNZ - AI integration in education mu,6,6.2,Elucidating,
+2025-01-28 - RNZ - AI integration in education mu,6,6.1,Elucidating,
+2025-01-28 - RNZ - AI integration in education mu,6,6.3,Elucidating,
+2025-01-28 - RNZ - AI integration in education mu,5,5.2,Quasi-scientific,
+2025-01-28 - RNZ - Government releases artificial,2,2,Informatory,"Doesn't actually define a risk here - ""there are privacy, security and ethical risks here… we recommend not using it for classified data, or entering peronal data into GenAI tools."""
+2025-01-28 - RNZ - Government releases artificial,4,4,Informatory,
+2025-01-28 - RNZ - Government releases artificial,3,3.1,Informatory,
+2025-01-30 - PRS - Warning on China spy risk from,2,2.1,Quasi-scientific,Clear example of how the AI tool could be used to collect personal information from prompts. 
+2025-01-30 - PRS - Warning on China spy risk from,8,8.1,Quasi-scientific,
+2025-01-30 - PRS - Warning on China spy risk from,4,4.1,Quasi-scientific,
+2025-01-30 - PRS - Warning on China spy risk from,8,8.3,Quasi-scientific,
+2025-01-30 - RNZ - NZ innovators using artificial,7,7.3,Quasi-scientific,Explains the necessity of good data to help distinguish between similar animals in the traps
+2025-02-02 - RNZ - New guidelines released for pu,3,3.1,Elucidating,"Does define misinformation, but doesn't explain the mechanism through which AI gives misinformation"
+2025-02-02 - RNZ - New guidelines released for pu,1,1,Informatory,
+2025-02-03 - NSM - AI system to help prevent drow,5,5.1,Elucidating,
+2025-02-03 - NSM - AI system to help prevent drow,6,6.2,Elucidating,
+2025-02-04 - RNZ - New Zealand public services re,6,6.5,Elucidating,"The academic is talking about the challenge of policing government use of AI when there's no transparecy about what systems are used; this led to their justification for having a charter (""""It means there's a degree of transparency and scrutiny about the extent of these systems, and it does mean they can potentially be asked to demonstrate they meet standards that we would regard as reasonable.""). This is an example of one governance challenge - the lack of transparency to companies' use of AI systems, by those who may want to police that use. Therefore, this *is* a reference to Risk 6.5. I'll call it a definition, as it seems clear fromt he final sentence (quoted above) that they're referring to challenges in holding AI deployers to ethical standards of use when there's no transparency of systems. "
+2025-02-04 - RNZ - New Zealand public services re,7,7.3,Quasi-scientific,
+2025-02-04 - RNZ - New Zealand public services re,1,1,Informatory,
+2025-02-04 - RNZ - New Zealand public services re,5,5.2,Informatory,
+2025-02-07 - NZH - Woman loses $375k in Martin He,4,4.3,Quasi-scientific,
+2025-02-12 - RNZ - New uses of artificial intelli,6,6.6,Elucidating,
+2025-02-16 - RNZ - Googles AI has been breaching,2,2.1,Informatory,"Doesn't clearly explain how AI could be learning the data and then reproducing it. Does mention that there's an age old challenge of people putting up information online and then others finding it, but doesn't explain the role of AI in this. Therefore, an informatory reference. "
+2025-02-20 - TST - AI tech gives farmers meat qua,7,7.3,Informatory,
+2025-02-25 - TAM - Te Matatini AI and online h,0,0,Informatory,
+2025-02-26 - WAA - Angitū explores AI in Te Ma,6,6.3,Informatory,
+2025-02-27 - GHT - More victims of actor romance,4,4.3,Quasi-scientific,
+2025-02-28 - NZH - Outrage at university AI tutor,3,3.1,Elucidating,"States it is incorrect, but doesn't state why or how this arises. "
+2025-02-28 - NZH - Outrage at university AI tutor,6,6.2,Elucidating,Seems to state that there's a decline in quality of (the university's service) as a result of jobs being lost to AI. 
+2025-02-28 - NZH - Outrage at university AI tutor,6,6.6,Informatory,
+2025-02-28 - RNZ - NZ police part of global opera,1,1.2,Elucidating,"Doesn't explain that AI can produce toxic content in relation to the data it was trained on, so doesn't build an understanding of how AI generates toxic content other than ""a tool exists that can do this."""
+2025-03-01 - SCP - MPs Instructed To Remove Four,2,2,Elucidating,"Mentions the concern that the Chinese government can access sensitive data through the applications, but doesn't explain what this data is or how (is it collection or inference of private information from the use of TikTok / DeepSeek, or is it something more like the app itself accessing compromised parts of the network?) Therefore, I've classed this as Risk 2.0 without a subdomain. Gives a description of what the members of parliament can do about it (not use these apps on the Parliamentary network), but it doesn't actually explain how the privacy or security risk occurs... how do these apps actually cause a privacy/security concern?) Therefore, just defining the risk without explanation"
+2025-03-01 - SCP - MPs Instructed To Remove Four,4,4.1,Elucidating,"States why there's a concern that sensitive data could be collected via the apps, but doesn't state why that would be a concern (it may be implied that foreign governments collecting information on our politicians is a risk, though. "
+2025-03-01 - SCP - MPs Instructed To Remove Four,8,8.3,Elucidating,"States that data collected may be accessed by Chinese authorities, but doesn't explain why this could be harmful - the audience is expected to understand the risk of geopolitical conflict and data access. "
+2025-03-02 - RNZ - Kiwi woman hands over biometri,2,2.2,Elucidating,States that there's a risk this data could be collected by third parties… 
+2025-03-06 - DRV - Will AI replace car designers,6,6.3,Elucidating,
+2025-03-06 - DRV - Will AI replace car designers,6,6.2,Quasi-scientific,
+2025-03-06 - DRV - Will AI replace car designers,8,8.4,Informatory,
+2025-03-08 - WHC - Liz first customer to be clone,0,0,Informatory,"""Some friends had questioned her decision"" seems to imply a risk or potential harm from using AI in this way, but that isn't spelled out in enough detail to gather what kind of harm, from the article. "
+2025-03-08 - WHC - Liz first customer to be clone,4,4,Informatory,
+2025-03-08 - WHC - Liz first customer to be clone,6,6.5,Informatory,
+2025-03-09 - SCP - AI Could Enhance Democracy - E,2,2,Informatory,
+2025-03-09 - SCP - AI Could Enhance Democracy - E,6,6.6,Informatory,
+2025-03-14 - STF - Is AI in politics the final te,6,6.2,Elucidating,
+2025-03-14 - STF - Is AI in politics the final te,3,3.2,Quasi-scientific,Gives clear reference to the possiblity that increased use of AI could make members of the public unsure whether they should believe what they are seeing and reading. 
+2025-03-14 - STF - Is AI in politics the final te,0,0,Informatory,"Unclear what it means by ""in ways that are safe"""
+2025-03-14 - STF - Is AI in politics the final te,5,5.2,Informatory,
+2025-03-14 - STF - Is AI in politics the final te,7,7.4,Informatory,
+2025-03-18 - RNZ - The future of warfare- Killer,5,5.2,Elucidating,"Doesn't explain the role of automation or lock-in of automated systems, here, but does explain that harm could airse if an automated system shows a bias. Borderline. "
+2025-03-18 - RNZ - The future of warfare- Killer,7,7.2,Quasi-scientific,"""The integration is now going further with AI, at a fast pace."" Doesn't really link to potential harms from AI having these capabilities, such as AI being non-robust in a task that involves using weapons against humans. "
+2025-03-18 - RNZ - The future of warfare- Killer,6,6.4,Informatory,"Doesn't explain an AI race where people are cutting corners, merely states that the progress is fast, and also states that there is potential for dangerous deployment because systems currently show marked bias towards escalation in crisis scenarios. "
+2025-03-18 - RNZ - The future of warfare- Killer,6,6.5,Informatory,"References that there's currently a struggle to regulate this tech, without explaining exactly why. "
+2025-03-19 - RNZ - Online safety fears- Its reall,6,6.5,Elucidating,"States that our policy hasn't been moving fast enough, without explaining why. "
+2025-03-19 - RNZ - Online safety fears- Its reall,3,3,Informatory,Assumes that the author knows why Facebook is being blamed for increased misinformation (i.e. that their algorithm promote it due to engagement) so this is merely informatory. 
+2025-03-19 - RNZ - Online safety fears- Its reall,4,4,Informatory,
+2025-03-19 - SCP - Where Does NZ Stand On Killer,7,7.2,Quasi-scientific,"States that damage increases from AI having these capabilities. Doesn't really link to potential harms from AI having these capabilities, such as AI being non-robust in a task that involves using weapons against humans. "
+2025-03-19 - SCP - Where Does NZ Stand On Killer,6,6.5,Quasi-scientific,
+2025-03-20 - RNZ - Could speed cameras be used to,8,8.1,Informatory,"Doesn't state that it's an issue for it to be in Aus, though implies it through the requirement to be stored in NZ when the new data center has been built. Doesn't actually define an issue of national data sovereignty. "
+2025-03-20 - RNZ - Could speed cameras be used to,2,2.2,Informatory,
+2025-03-20 - RNZ - Military robots and thinking t,6,6.5,Elucidating,"References that current international efforts to regulate AI for warfare have been slow, and states that this is because of financial imperitives. Doesn't explain this in much detail, though. "
+2025-03-20 - RNZ - Military robots and thinking t,7,7.2,Quasi-scientific,
+2025-03-20 - RNZ - Military robots and thinking t,6,6.4,Quasi-scientific,"Clearly explains that there is an imperitive to keep up with overseas developments in AI and retain our interoperability and key technologies for defense, and also notes that this is playing out when there's a race to secure IP and global market share. Helps the reader understand why companies are racing by linking it to military an financial stakes. "
+2025-03-20 - RNZ - Military robots and thinking t,4,4.1,Informatory,
+2025-03-20 - RNZ - Military robots and thinking t,4,4.2,Informatory,
+2025-03-20 - WKT - Good luck getting a job withou,6,6.1,Elucidating,Only states that people who don't suit the algorithms may be disadvantaged; doesn't draw attention to a wider trend of reinforcing systemic inequality and concentrating power towards AI companies. 
+2025-03-20 - WKT - Good luck getting a job withou,7,7.3,Elucidating,
+2025-03-20 - WKT - Good luck getting a job withou,1,1,Informatory,"Explains a consequence of Risk 1.1 occuring, but doesn't explain Risk 1.1. itself and how it arises. "
+2025-03-20 - WKT - Good luck getting a job withou,2,2,Informatory,
+2025-03-21 - RNZ - Podcast Levittown investigates,1,1.2,Elucidating,
+2025-03-21 - RNZ - Podcast Levittown investigates,6,6.5,Elucidating,"The article approximately says: ""Laws are currently not good enough to prosecute something that feels like it should be a crime; laws will need to be updated."" Doesn't draw attention to why these laws were outdated, which would be required to tip this into an explanatory reference. "
+2025-03-21 - RNZ - Podcast Levittown investigates,4,4.3,Quasi-scientific,Gives quite detailed explanation of how this could be misuse using AI. 
+2025-03-25 - RNZ - INZ introducing automated deci,1,1.1,Elucidating,"Concerns that human biases could be baked into decisions = a definition of the problem, and almost gives a mechanism for how this might occur, but doesn't directly mention that dataset biases could lead to AI decision-making biases. "
+2025-03-25 - RNZ - INZ introducing automated deci,6,6.2,Elucidating,Mentions potential decline in employment or employment quality through use of AI; doesn't explain loss of jobs or employment quality in depth. 
+2025-03-25 - RNZ - INZ introducing automated deci,6,6.5,Elucidating,"Points at the need for adequate oversight, and mentions why these are needed (will affect response to migrant exploitation and national security risks; guidelines are used to define checks needed for transparency, oversight, and to overcome bias). "
+2025-03-25 - RNZ - INZ introducing automated deci,5,5.2,Quasi-scientific,
+2025-03-25 - RNZ - INZ introducing automated deci,7,7.4,Informatory,
+2025-03-26 - PST - Heartbroken and powerless- Wai,6,6.3,Quasi-scientific,
+2025-03-26 - PST - Heartbroken and powerless- Wai,6,6.5,Quasi-scientific,
+2025-03-28 - STF - Dont swallow chubby-skinny fil,8,8,Informatory,
+2025-03-28 - STF - Dont swallow chubby-skinny fil,6,6.1,Informatory,"Doesn’t explicitly reference the concentration of power towards those who look like AI developers, but does make it clear that AI filters enable social privileges to be reinforced. "
+2025-04-01 - RNZ - No armed drones in NZDF arsena,7,7.2,Quasi-scientific,
+"2025-04-04 - STF - AI wrote my explainer, now its",6,6.1,Elucidating,
+"2025-04-04 - STF - AI wrote my explainer, now its",7,7.3,Elucidating,Describes some of the skills that AI isn't capable of. Doesn't mention how these skills deficits arise or why. 
+"2025-04-04 - STF - AI wrote my explainer, now its",6,6.2,Quasi-scientific,
+2025-04-06 - STF - AI is like having a high-perfo,6,6.2,Elucidating,
+2025-04-06 - STF - AI is like having a high-perfo,7,7.3,Elucidating,
+2025-04-06 - STF - AI is like having a high-perfo,0,0,Informatory,
+2025-04-06 - STF - AI is like having a high-perfo,2,2,Informatory,
+2025-04-07 - PRS - Will AI replace local politici,0,0,Informatory,
+2025-04-07 - PRS - Will AI replace local politici,4,4.1,Informatory,
+2025-04-07 - PRS - Will AI replace local politici,6,6.2,Informatory,
+2025-04-07 - PRS - Will AI replace local politici,6,6.5,Informatory,
+2025-04-07 - RNZ - Bougainville president condemn,4,4.1,Quasi-scientific,
+2025-04-07 - RNZ - The New Zealand institution he,3,3.2,Quasi-scientific,Clear example and explanation given. 
+2025-04-07 - RNZ - The New Zealand institution he,6,6.2,Informatory,
+2025-04-09 - BOP - MSD denies plans for automated,6,6.5,Elucidating,"This article is talking about the challenge of regulating AI effectively, as enabling AI may make it difficult to walk back from using AI; progressing these safeguards may enable a lax approach to decision-making. Doesn't really explain why. "
+2025-04-09 - BOP - MSD denies plans for automated,7,7.3,Elucidating,
+2025-04-09 - BOP - MSD denies plans for automated,6,6.1,Quasi-scientific,
+2025-04-09 - BOP - MSD denies plans for automated,1,1,Informatory,
+2025-04-09 - RNZ - Artificial intelligence exam-m,4,4.3,Informatory,
+2025-04-09 - RNZ - Ministry of Social Development,1,1,Elucidating,"References that unfair decisions can be made, without stating how these unfair decisions arise (assuming it's via biased training data), therefore this is an informatory reference to Discrimination. The reference to AI not being able to account for the complexities is a reference to Risk 7.3. "
+2025-04-09 - RNZ - Ministry of Social Development,5,5.2,Elucidating,"States a scenario where the use of automated decision-making may cause issues, but doesn't explain why automated decision-making could lead to a lock-in of AI biases or lock-out of human ability to steer the system. "
+2025-04-09 - RNZ - Ministry of Social Development,6,6.5,Elucidating,
+2025-04-09 - RNZ - Ministry of Social Development,7,7.3,Elucidating,
+2025-04-09 - RNZ - Ministry of Social Development,6,6.1,Quasi-scientific,
+2025-04-09 - RNZ - There should always be a human,4,4.2,Elucidating,
+2025-04-09 - RNZ - There should always be a human,7,7.2,Quasi-scientific,
+2025-04-09 - RNZ - There should always be a human,6,6.5,Quasi-scientific,
+2025-04-11 - NZH - Robots boost efficiency at Auc,7,7.3,Informatory,
+2025-04-14 - RNZ - AI widely used in public secto,1,1.1,Informatory,
+2025-04-14 - RNZ - AI widely used in public secto,5,5.2,Informatory,
+2025-04-14 - RNZ - AI widely used in public secto,6,6.2,Informatory,
+2025-04-16 - NAD - AI readiness slips despite inv,6,6,Informatory,
+2025-04-16 - NAD - AI readiness slips despite inv,8,8,Informatory,AI snake oil? Overpromises? 
+2025-04-21 - NZH - Ask the right questions to use,3,3.1,Elucidating,
+2025-04-21 - NZH - Ask the right questions to use,2,2.1,Informatory,"Doesn't explain why sensitive data shouldn't be uploaded, but clearly references the risk that something bad could happen if so. "
+2025-04-24 - NZH - Australian senators warning to,4,4.1,Quasi-scientific,
+2025-04-24 - NZH - Australian senators warning to,4,4.3,Quasi-scientific,
+2025-04-24 - NZH - Australian senators warning to,6,6.5,Quasi-scientific,
+2025-04-24 - RNZ - AI use for job seekers- Defaul,7,7.3,Elucidating,
+2025-04-24 - RNZ - AI use for job seekers- Defaul,1,1,Quasi-scientific,"Explains effect of automated decision-making on vulnerable communities relates to whether the data reflects the nuances of these communities. This could be Risk 1.1 or Risk 1.3. However, it does explain that the cause of the biased algorithm is the quality of the data it was trained on. "
+2025-04-24 - RNZ - AI use for job seekers- Defaul,5,5.2,Quasi-scientific,
+2025-04-24 - RNZ - AI use for job seekers- Defaul,6,6.5,Quasi-scientific,
+2025-04-26 - STF - Will AI mean the end for inter,3,3.1,Elucidating,
+2025-04-26 - STF - Will AI mean the end for inter,6,6.2,Quasi-scientific,
+2025-04-26 - STF - Will AI mean the end for inter,4,4.3,Informatory,
+2025-04-29 - RNZ - Police trial data extraction t,2,2,Elucidating,"Unclear how data could be leaked, but this does help the reader understand that data could be leaked to third parties through the AI toold or surrounding software processes. I'm calling this a definition. "
+2025-04-29 - RNZ - Police trial data extraction t,4,4.1,Elucidating,States what the example of misuse was - that they accessed ANPR without proper authorzation - but doesn't explain what's risky or challenging about that. 
+2025-04-29 - RNZ - Police trial data extraction t,6,6.5,Informatory,
